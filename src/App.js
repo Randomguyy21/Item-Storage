@@ -2,7 +2,6 @@
 import './App.css';
 import Header from "./Components/Header";
 import {Footer} from "./Components/Footer";
-import {Items} from "./Components/Items";
 import {Store} from "./Components/Store";
 import {AddItem} from "./Components/AddItem"
 import React, { useState, useEffect } from 'react';
