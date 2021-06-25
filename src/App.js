@@ -35,7 +35,7 @@ function App() {
     console.log("I am adding this", itemname, price);
     let sno;
     if(store.length==0)
-    {sno=1;}
+    {sno=0;}
     else{
      sno=store[store.length-1].sno +1;}
     const myItem={
